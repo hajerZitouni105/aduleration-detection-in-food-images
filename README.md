@@ -43,9 +43,9 @@ The autoencoder workflow includes:
    ```bash
    git clone https://github.com/yourusername/food-adulteration-detection.git
 ## Results
-**CNN Classifier:** Achieved strong performance in classifying adulterated vs. authentic samples.
-**Autoencoder:** Successfully detected adulteration by identifying samples with higher reconstruction errors.
+- **CNN Classifier:** Achieved strong performance in classifying adulterated vs. authentic samples.
+- **Autoencoder:** Successfully detected adulteration by identifying samples with higher reconstruction errors.
 
 ## Future Directions
-**Broader Dataset Inclusion:** Explore more types of food adulteration.
-**Deployment:** Adapt the models for real-time use on mobile or web applications.
+- **Broader Dataset Inclusion:** Explore more types of food adulteration.
+- **Deployment:** Adapt the models for real-time use on mobile or web applications.
